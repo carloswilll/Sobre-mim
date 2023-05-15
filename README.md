@@ -2,7 +2,7 @@
 
 ### Resumo
 
-Olá, me chamo Carlos Willian, o que posso dizer de mim é que tenho 26 anos, sou apaixonado por tecnologia e ficção cientifica, gosto de
+Olá, me chamo Carlos Willian, o que posso dizer de mim é que tenho 27 anos, sou apaixonado por tecnologia e ficção cientifica, gosto de
 filosofia, literatura e cinema, busco sempre estar por dentro das noticias e tendências, e acredito na ciência.
 Atualmente venho me interessando e estudando sobre Data Science, principalmente pela área de Business
 Intelligence, meu primeiro "Hello World" foi em Python e nesse momento é essa linguagem com a qual estou me
