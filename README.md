@@ -19,7 +19,7 @@ respeito
 ### Educação
 
 - Instituto Federal da Paraíba 
-- Bacharelado em Administração e Negócios (2015-2022) 
+- Bacharelado em Administração e Negócios (2015-2021) 
 
   
 ## :white_check_mark: Certificados:
